@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bartender</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="ik2018_inl_mningsuppgift2">IK2018 - Inlämningsuppgift2</string>
+    <string name="bartender">Bartender</string>
+    <string name="pour_me_one_bartender">Pour me one BARTENDER</string>
+</resources>
