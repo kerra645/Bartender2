@@ -8,4 +8,7 @@
     <string name="ik2018_inl_mningsuppgift2">IK2018 - Inlämningsuppgift2</string>
     <string name="bartender">Bartender</string>
     <string name="pour_me_one_bartender">Pour me one BARTENDER</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
